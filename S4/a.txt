@@ -1,0 +1,34 @@
+Properties
+
+Associative Properties of Addition (Subtraction (-) inverse operation)
+(i)	a+(b+c)=(a+b)+c
+Associative Properties of Multiplication (Division (/) inverse operation)
+(ii)	a(bc)=(ab)c
+Commutative Properties of Addition (Subtraction (-) inverse operation)
+(iii)	a+b=b+a		
+Commutative Properties of Multiplication (Division (/) inverse operation)
+(iv)	ab=ba
+Identity Properties of Addition (Subtraction (-) inverse operation)
+	a+0=a
+Identity Properties of Multiplication (Division (/) inverse operation)
+	a x 1 = a
+Multiplicative Property of Zero (Not inverse operation)
+	a x 0 = 0
+Distributive Property of Multiplication
+(v)	a(b+c)=ab+ac
+Distributive Property of Division (inverse operation)
+(vi)	(a+b)/c=a/c+b/c
+Distributive Property of Product of two sums
+(vii)	(a+b)(c+d)=ac+ad+bc+bd
+
+
+Order of operations
+
+parenthesis and other grouping symbols including brackets,
+ absolute value symbols, and the fraction bar
+
+exponents and roots
+multiplication and division
+addition and subtraction
+
+

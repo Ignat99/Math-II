@@ -1,0 +1,71 @@
+Kuphaldt. Lessons in electric circuits 4 - Digital(371s).pdf
+
+1.1 Numbers and symbols
+
+   First, we have to distinguish the difference between numbers and the symbols we use to represent
+numbers. A number is a mathematical quantity, usually correlated in electronics to a physical
+quantity such as voltage, current, or resistance. There are many different types of numbers. Here
+are just a few types, for example:
+WHOLE NUMBERS:
+1, 2, 3, 4, 5, 6, 7, 8, 9 . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTEGERS:Z
+-4, -3, -2, -1, 0, 1, 2, 3, 4 . . .
+
+
+
+
+
+
+REAL NUMBERS: R
+(All one-dimensional numerical values, negative and positive,
+including zero, whole, integer, and irrational numbers)
+
+
+
+
+IRRATIONAL NUMBERS:
+π (approx. 3.1415927), e (approx. 2.718281828),
+square root of any prime
+
+
+
+
+
+
+
+
+
+
+
+COMPLEX NUMBERS:
+              20o
+3 - j4 , 34.5
+
+
+Chapters 5 and 6: Complex Numbers
+
+Mathematician Adrien Douady explains complex numbers. The square root of negative numbers is explained in simple terms. Transforming the plane, deforming pictures, creating fractal images.
+
+http://dimensions.umpa.ens-lyon.fr/rivettracker/torrents/Chap5_english.mov.torrent
+
+
+Used Linux KBruch program for trening Fract calculation.
+
+Used Linux Xmaxima program for autocalculation.
+
+Show Linux Octava program
+
+
